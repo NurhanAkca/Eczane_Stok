@@ -1,0 +1,5 @@
+# Şifre içeren yerel ayar dosyası
+config/database.php
+
+# macOS
+.DS_Store
