@@ -2,7 +2,7 @@
 
 **🇹🇷 [Türkçe](#-türkçe) · 🇬🇧 [English](#-english) · 🇩🇪 [Deutsch](#-deutsch)**
 
-![Dashboard](screenshots/dashboard.png)
+![Ekran görüntüsü](screenshots/Ekran%20Resmi%202026-11-23%2019.49.21.png)
 
 ---
 
@@ -24,11 +24,10 @@ Eczanelerde ilaç stoklarını takip etmek, manuel hataları ve veri kayıpları
 PHP · MySQL · PDO · HTML · CSS · Tailwind CSS · JavaScript
 
 ### 📸 Ekran Görüntüleri
-| Giriş | İlaçlar |
+| | |
 |---|---|
-| ![Giriş ekranı](screenshots/login.png) | ![İlaç listesi](screenshots/medicines.png) |
-| **Stok Hareketleri** | **Raporlar** |
-| ![Stok hareketleri](screenshots/stock_movements.png) | ![Raporlar](screenshots/reports.png) |
+| ![Ekran 1](screenshots/Ekran%20Resmi%202026-11-23%2019.49.21.png) | ![Ekran 2](screenshots/Ekran%20Resmi%202026-11-23%2019.50.29.png) |
+| ![Ekran 3](screenshots/Ekran%20Resmi%202026-11-23%2019.50.48.png) | ![Ekran 4](screenshots/Ekran%20Resmi%202026-11-23%2019.53.39.png) |
 
 ### ⚙️ Kurulum
 1. Projeyi `htdocs` (XAMPP) veya `www` (WAMP) klasörüne kopyalayın.
